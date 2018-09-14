@@ -269,6 +269,7 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
      * Set the pen color to the default color (black).
      */
     public static void setPenColor(String type) {
+        DEFAULT_PEN_COLOR = BLACK;
         if(type == "Lion")
             DEFAULT_PEN_COLOR = BLACK;
         if(type == "Zebra")

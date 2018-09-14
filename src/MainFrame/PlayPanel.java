@@ -25,7 +25,9 @@ public class PlayPanel extends JPanel {
     public void Init()
     {
         System.out.println(mainFrame.inputs.get("Grid"));
+
+        int n = mainFrame.fourth.sum;
         GridTemplates T = new GridTemplates(mainFrame.inputs.get("Grid"));
-        APP Play = new APP(T.x,T.y,T.Grid,T.BolGrid, mainFrame);
+        APP Play = new APP(T.x,T.y,T.Grid,T.BolGrid, mainFrame,n);
     }
 }

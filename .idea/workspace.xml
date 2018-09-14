@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0755a3e2-a4bd-4ed8-9302-d05cbdcf36d9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainFrame/APP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFrame/APP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame/AnimalsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFrame/AnimalsPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame/Eagle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame/PlayPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFrame/PlayPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame/Sheep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame/StdDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFrame/StdDraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame/Wolf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame/Zebra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame/anima.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFrame/anima.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame/corpo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFrame/corpo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame/scheletro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFrame/scheletro.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,27 +27,28 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="540" />
+          <entry key="java" value="736" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="540" />
+          <entry key="JAVA" value="736" />
         </counts>
       </usages-collector>
     </session>
@@ -46,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MainFrame/MainFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state>
               <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
               <folding>
                 <element signature="e#1099#1100#0" expanded="true" />
@@ -59,8 +71,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MainFrame/PlayPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+            <state relative-caret-position="30">
+              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainFrame/APP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainFrame/AnimalsPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,13 +99,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainFrame/AnimalsPanel.java">
+        <entry file="file://$PROJECT_DIR$/src/MainFrame/corpo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="405">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MainFrame/scheletro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -84,16 +120,7 @@
         <entry file="file://$PROJECT_DIR$/src/MainFrame/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainFrame/corpo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -110,34 +137,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MainFrame/StdDraw.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="150" column="29" lean-forward="true" selection-start-line="150" selection-start-column="29" selection-end-line="150" selection-end-column="29" />
+            <state relative-caret-position="180">
+              <caret line="277" column="32" selection-start-line="277" selection-start-column="32" selection-end-line="277" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#6091#6092#0" expanded="true" />
-                <element signature="e#6144#6145#0" expanded="true" />
-                <element signature="e#6272#6273#0" expanded="true" />
-                <element signature="e#6325#6326#0" expanded="true" />
-                <element signature="e#7708#7709#0" expanded="true" />
-                <element signature="e#7750#7751#0" expanded="true" />
-                <element signature="e#8396#8397#0" expanded="true" />
-                <element signature="e#8444#8445#0" expanded="true" />
-                <element signature="e#9368#9369#0" expanded="true" />
-                <element signature="e#9405#9406#0" expanded="true" />
-                <element signature="e#14062#14063#0" expanded="true" />
-                <element signature="e#14096#14097#0" expanded="true" />
-                <element signature="e#14389#14390#0" expanded="true" />
-                <element signature="e#14417#14418#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MainFrame/APP.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainFrame/anima.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="454">
+              <caret line="97" column="10" lean-forward="true" selection-start-line="97" selection-start-column="10" selection-end-line="97" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -169,18 +182,18 @@
         <option value="$PROJECT_DIR$/src/MainFrame.java" />
         <option value="$PROJECT_DIR$/src/MainFrame/StartScreen.java" />
         <option value="$PROJECT_DIR$/src/MainFrame/Rules.java" />
-        <option value="$PROJECT_DIR$/src/MainFrame/scheletro.java" />
-        <option value="$PROJECT_DIR$/src/MainFrame/anima.java" />
         <option value="$PROJECT_DIR$/src/MainFrame/Automa.java" />
         <option value="$PROJECT_DIR$/src/MainFrame/GridPanel.java" />
         <option value="$PROJECT_DIR$/src/MainFrame/GridTemplates.java" />
-        <option value="$PROJECT_DIR$/src/MainFrame/PlayPanel.java" />
-        <option value="$PROJECT_DIR$/src/MainFrame/AnimalsPanel.java" />
-        <option value="$PROJECT_DIR$/src/MainFrame/corpo.java" />
         <option value="$PROJECT_DIR$/src/MainFrame/Lion.java" />
         <option value="$PROJECT_DIR$/src/MainFrame/Animal.java" />
         <option value="$PROJECT_DIR$/src/MainFrame/StdDraw.java" />
+        <option value="$PROJECT_DIR$/src/MainFrame/AnimalsPanel.java" />
+        <option value="$PROJECT_DIR$/src/MainFrame/PlayPanel.java" />
         <option value="$PROJECT_DIR$/src/MainFrame/APP.java" />
+        <option value="$PROJECT_DIR$/src/MainFrame/anima.java" />
+        <option value="$PROJECT_DIR$/src/MainFrame/corpo.java" />
+        <option value="$PROJECT_DIR$/src/MainFrame/scheletro.java" />
       </list>
     </option>
   </component>
@@ -190,11 +203,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1922" />
-    <option name="y" value="184" />
-    <option name="width" value="1248" />
-    <option name="height" value="714" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="102" />
+    <option name="y" value="27" />
+    <option name="width" value="1161" />
+    <option name="height" value="664" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -202,9 +215,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,13 +238,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536908700505" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536925734407" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
   </component>
@@ -339,27 +352,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528529263395</updated>
-      <workItem from="1536906082121" duration="2565000" />
+      <workItem from="1536906082121" duration="3750000" />
+      <workItem from="1536924368728" duration="1357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2565000" />
+    <option name="totallyTimeSpent" value="5107000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25720385" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24181964" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.23529412" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.41947564" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -369,7 +382,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32809225" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -378,6 +391,7 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25737053" />
@@ -447,20 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFrame/scheletro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFrame/anima.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1668">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MainFrame/Automa.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -475,24 +475,6 @@
     <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/awt/image/DirectColorModel.class" />
     <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/awt/Graphics.class" />
     <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-i386/jre/lib/rt.jar!/java/awt/Graphics2D.class" />
-    <entry file="file://$PROJECT_DIR$/src/MainFrame/GridTemplates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFrame/MainFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding>
-            <element signature="e#1099#1100#0" expanded="true" />
-            <element signature="e#1130#1131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MainFrame/Zebra.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -521,75 +503,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFrame/Lion.java">
+    <entry file="file://$PROJECT_DIR$/src/MainFrame/Lion.java" />
+    <entry file="file://$PROJECT_DIR$/src/MainFrame/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFrame/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFrame/PlayPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+        <state>
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MainFrame/AnimalsPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        <state relative-caret-position="300">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFrame/corpo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainFrame/StdDraw.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="150" column="29" lean-forward="true" selection-start-line="150" selection-start-column="29" selection-end-line="150" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#6091#6092#0" expanded="true" />
-            <element signature="e#6144#6145#0" expanded="true" />
-            <element signature="e#6272#6273#0" expanded="true" />
-            <element signature="e#6325#6326#0" expanded="true" />
-            <element signature="e#7708#7709#0" expanded="true" />
-            <element signature="e#7750#7751#0" expanded="true" />
-            <element signature="e#8396#8397#0" expanded="true" />
-            <element signature="e#8444#8445#0" expanded="true" />
-            <element signature="e#9368#9369#0" expanded="true" />
-            <element signature="e#9405#9406#0" expanded="true" />
-            <element signature="e#14062#14063#0" expanded="true" />
-            <element signature="e#14096#14097#0" expanded="true" />
-            <element signature="e#14389#14390#0" expanded="true" />
-            <element signature="e#14417#14418#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MainFrame/APP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame/StdDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="277" column="32" selection-start-line="277" selection-start-column="32" selection-end-line="277" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame/GridTemplates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame/anima.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="97" column="10" lean-forward="true" selection-start-line="97" selection-start-column="10" selection-end-line="97" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame/PlayPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame/corpo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame/scheletro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>

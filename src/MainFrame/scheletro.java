@@ -6,6 +6,6 @@ public interface scheletro {
 
     public int getY(); //altezza mondo
 
-    public void generafigli(final boolean[][] figlio);
+    public void generafigli(final boolean[][] figlio,int n);
 
 }

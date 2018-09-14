@@ -12,9 +12,10 @@ public class anima {
     private final scheletro view;
     private boolean[][] currentGeneration;
     private TimerTask task;
+    private int number;
 
-    public anima (final scheletro view) {
-
+    public anima (final scheletro view, int N) {
+        this.number = N;
         this.view = view;
         this.currentGeneration = new boolean[view.getY()][view.getX()];
         final Random random = new Random();
@@ -92,7 +93,7 @@ public class anima {
 
             public void run() {
                 currentGeneration = figli(currentGeneration);
-                view.generafigli(currentGeneration);
+                view.generafigli(currentGeneration,number);
             }
         };
         new Timer().schedule(task, 0, 50);

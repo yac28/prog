@@ -34,13 +34,18 @@ public class corpo implements scheletro {
         return x;
     }
 
-    public void generafigli(final boolean[][] figlio) {
+    public void generafigli(final boolean[][] figlio, int n) {
         StdDraw.show(0);
         StdDraw.clear();
+        int cont = 0;
         for (int row = 0; row < figlio.length; row++) {
             for (int col = 0; col < figlio[row].length; col++) {
                 if (figlio[row][col] == true) {
-                    StdDraw.point(col, row); //
+                    if(cont <n)
+                        StdDraw.point(col, row);
+                    else
+                        break;
+                    cont++;
                 }
             }
         }

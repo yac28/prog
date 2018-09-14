@@ -25,7 +25,7 @@ public class AnimalsPanel extends JPanel  {
     private JTextField t3=new TxtBox(10);
     private JTextField t4=new TxtBox(10);
     private JTextField t5=new TxtBox(10);
-    private int sum=0;
+    public int sum=0;
     private boolean control=true;
 
     public JLabel bkg=new JLabel(new ImageIcon("animals.png"));
